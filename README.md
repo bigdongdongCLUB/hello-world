@@ -11,7 +11,7 @@
 
 [https://cove.cloud/auth/register?affid=2743](https://cove.cloud/auth/register?affid=2743)
 
->SS SSR服务商 很早推荐过 差不多饱和了...大家最好注册免费试试  分有限流量和无限流量 限制ip数量
+>SS SSR服务商 很早推荐过 差不多饱和了...大家最好注册免费试试  分有限流量和无限流量 限制ip数量 大套餐送Netflix共享账户（稳定性不晓得）
 
 ### macaussr
 
