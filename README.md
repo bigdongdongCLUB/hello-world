@@ -22,12 +22,6 @@
 
 >SS SSR服务站 很早推荐过 差不多饱和了...大家最好注册免费试试,分有限流量和无限流量 限制ip数量 大套餐送Netflix共享账户（稳定性不晓得）
 
-### macaussr  ★★★
-
-[https://macaussr.com](https://macaussr.com)
-
->SS SSR服务站 差不多是使用的第一个场子了和场主挺熟 感觉也差不多饱和了... 
-
 ### V2proxy   ★
 
 [https://console.vproxy.org/aff.php?aff=12](https://console.vproxy.org/aff.php?aff=12)
