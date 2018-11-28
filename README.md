@@ -22,7 +22,7 @@
 
 >SS SSR服务站 很早推荐过 差不多饱和了...大家最好注册免费试试 分有限流量和无限流量 限制ip数量 大套餐送Netflix共享账户（稳定性不晓得）
 
-### V2proxy   ★
+### V2proxy   ★★
 
 [https://console.vproxy.org/aff.php?aff=12](https://console.vproxy.org/aff.php?aff=12)
 
