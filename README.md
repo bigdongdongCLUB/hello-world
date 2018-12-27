@@ -10,19 +10,21 @@
 
 稳定程度我会实时更新
 
+### 蓝岸  ★★★★
+
+>V2RAY 服务站 节点挺多的 试用了一两天还不错 但缺点是没有试用。。购买的时候会提示注册 
+
+[https://my.lanan.cloud/aff.php?aff=465](https://my.lanan.cloud/aff.php?aff=465)
+
+>V2RAY 服务站 
+
 ### MY2ZONE  ★★★
 
 [http://www.my2one.live/auth/register?affid=23457](http://www.my2one.live/auth/register?affid=23457)
 
 >SS SSR 服务站 亲测还不错 节点众多套餐灵活 分有限流量和无限流量 限制ip数量 
- 
-### 海豚湾  ★★
 
-[https://cove.cloud/auth/register?affid=2743](https://cove.cloud/auth/register?affid=2743)
-
->SS SSR服务站 很早推荐过 最近使用感觉已经做了用户限速 **感觉是人数较多 差不多饱和的缘故** 大家最好注册免费试试 
-
-### V2proxy   ★★
+### V2proxy   ★★★
 
 [https://console.vproxy.org/aff.php?aff=12](https://console.vproxy.org/aff.php?aff=12)
 
