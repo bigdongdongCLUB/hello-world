@@ -14,7 +14,7 @@
 
 >V2RAY 服务站 节点挺多的 试用了一两天还不错 但缺点是没有试用。。购买的时候会提示注册 
 
-[https://my.lanan.cloud/aff.php?aff=465](https://my.lanan.cloud/aff.php?aff=465)
+[https://go.lanan.host/aff.php?aff=465](https://go.lanan.host/aff.php?aff=465)
 
 >V2RAY 服务站 
 
