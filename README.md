@@ -7,13 +7,13 @@
 
 >V2RAY 服务站 
 
-家注册的时候可以使用 **邀请码：BIGDONGDONG** 全大写
+大家注册的时候可以使用 **邀请码：BIGDONGDONG** 全大写
 
 ### 蓝岸  
 
 [https://go.lanan.host/aff.php?aff=465](https://go.lanan.host/aff.php?aff=465)
 
->V2RAY 服务站 没有试用。。购买的时候会提示注册 
+>V2RAY 服务站 没有试用。。PS:购买的时候才会提示注册 
 
 ### V2proxy 
 
