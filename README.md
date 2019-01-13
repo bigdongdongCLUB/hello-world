@@ -21,7 +21,7 @@
 
 ### MY2ZONE  
 
-[http://www.my2one.live/auth/register?affid=23457](http://www.my2one.live/auth/register?affid=23457)
+[www.my2on3.live/auth/register?affid=23457](www.my2on3.live/auth/register?affid=23457)
 
 >SS SSR 服务站 节点众多套餐灵活 分有限流量和无限流量 限制ip数量 
 
