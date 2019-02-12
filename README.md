@@ -4,38 +4,38 @@
 
 ### 探鹿（原栖息地）  
 
-[https://tanlu.fun/register?code=BIGDONGDONG](https://tanlu.fun/register?code=BIGDONGDONG)
+https://tanlu.fun/register?code=BIGDONGDONG
 
 >V2RAY 服务站 貌似没有试用  资费 19/月 25/月 49/月  目前共7个节点（2018.1.24） 含 美 港 台 韩  限制IP数量未知
 
 ### 蓝岸  
 
-[https://go.lanan.host/aff.php?aff=465](https://go.lanan.host/aff.php?aff=465)
+https://go.lanan.host/aff.php?aff=465
 
 >V2RAY 服务站 没有试用。。PS:购买的时候才会提示注册  目前共40个节点（2019.1.24） 资费 19/月 25/月 49/月  目前共7个节点 含 美 港 台 日 新 韩 英 菲 土
 资费 25/月 218/年 288/年 428/年 568/年 1388/年 限制IP数量未知
 
 ### V2proxy 
 
-[https://console.vproxy.org/aff.php?aff=12](https://console.vproxy.org/aff.php?aff=12)
+https://console.vproxy.org/aff.php?aff=12
 
 >V2RAY 服务站 目前7个节点 含 美 日 港 资费 14.9/月 199/年 299/年 399/年 限制IP数量
 
 ### MY2ZONE  
 
-[www.myz0ne.life/auth/register?affid=23457](www.myz0ne.life/auth/register?affid=23457)
+www.myz0ne.life/auth/register?affid=23457
 
 >SS SSR 服务站 50+节点 含 美 港 台 日 新 韩 土 资费 月付：8/17/27/38 年付：324/456 限制IP数量
 
 ### 海豚湾 
 
-[https://xn--90wwvt03e.com//auth/register?affid=2743](https://xn--90wwvt03e.com//auth/register?affid=2743)
+https://xn--90wwvt03e.com//auth/register?affid=2743
 
 >SS SSR 服务站 50+节点 含 美 港 台 日 新 韩 土 资费：月付：10/19/29/39 季付：85/115 年付：320/430  限制IP数量
 
 ### MACAUSSR
 
-[https://macaussr.com/auth/login](https://macaussr.com/auth/login)
+https://macaussr.com/auth/login
 
 >SS SSR 服务器站 20/月 15/月
 
