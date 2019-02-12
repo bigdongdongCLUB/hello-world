@@ -23,7 +23,7 @@
 
 ### MY2ZONE  
 
-[www.my2on3.live/auth/register?affid=23457](www.my2on3.live/auth/register?affid=23457)
+[www.myz0ne.life/auth/register?affid=23457](www.myz0ne.life/auth/register?affid=23457)
 
 >SS SSR 服务站 50+节点 含 美 港 台 日 新 韩 土 资费 月付：8/17/27/38 年付：324/456 限制IP数量
 
