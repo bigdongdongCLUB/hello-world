@@ -4,7 +4,7 @@
 
 ### ss.city
 
-https://ss.city/auth/login
+https://ss.city/auth/register?affid=1541
 
 >SS SSR 服务器站 15/月起步 可2元试用一天
 
