@@ -8,6 +8,12 @@ https://ss.city/auth/register?affid=1541
 
 >SS SSR 服务器站 有视频、游戏内网专线 数量不多但少而精 目前很稳 含深港 京港 杭港 日 韩 美 18/月起步 可2元试用一天
 
+### 浣溪沙
+
+https://bigrain.xyz/auth/register?code=RyY7
+
+>SS SSR 服务站 貌似没有试用 优点资费比较低
+
 ### 探鹿（原栖息地）  
 
 https://tanlu.fun/register?code=BIGDONGDONG
