@@ -14,6 +14,12 @@ https://iplc.cloud/aff.php?aff=4
 
 >SS SSR 服务器站 比较高端 大部分线路是IPLC专线 IPLC可以说是目前最顶级的线路 IPLC属于内网线路不过墙 高峰期不拥堵 不懂的可以百度一下。后期可能我会出视频介绍一下,比较适合较高端的且用户使用。
 
+### 探鹿（原栖息地）  
+
+https://tanlu.fun/register?code=BIGDONGDONG
+
+>V2RAY 服务站 不知道为何大家很推崇V2RAY 既然推崇我就推荐一个这家网站做的很不错 但v2ray我个人觉得并不如SSR来的好 因人而异吧
+
 ### MY2ZONE  
 
 www.myz0ne.life/auth/register?affid=23457
@@ -26,10 +32,5 @@ https://xn--90wwvt03e.com//auth/register?affid=2743
 
 >SS SSR 服务站 和上面差不多 也是节点多 推荐很久 估计人数也很多了。。节点多 有的好有的不好
 
-### 探鹿（原栖息地）  
-
-https://tanlu.fun/register?code=BIGDONGDONG
-
->V2RAY 服务站 不知道为何大家很推崇V2RAY 既然推崇我就推荐一个这家网站做的很不错 但v2ray我个人觉得并不如SSR来的好 因人而异吧
 
 **以上场子均不是我运营的，我仅仅是自己使用过后做推荐，稳定度程度我会实时跟进 但因为每个人使用的宽带运营商不同而可能导致体验不同，所以大家最好要先试用，然后再进行购买，还有就是各种问题别找我啊，我不是他们客服人员，他们都有telegram群的**
