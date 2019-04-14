@@ -14,7 +14,7 @@ TIPS:
 
 刚知道不久，让我很吃惊 推荐是因为他是我见过唯一一家主线路都启用IPLC专线的场
 
-https://iplc.cloud/aff.php?aff=4
+https://my.iplc.cloud/aff.php?aff=4
 
 >SS SSR 服务器站 比较高端 线路几乎全是IPLC专线 IPLC可以说是目前最顶级的线路 IPLC属于内网线路不过墙 高峰期不拥堵 不懂的可以百度一下。后期可能我会出视频介绍一下,比较适合较高端的重度用户使用。
 
