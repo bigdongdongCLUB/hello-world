@@ -16,7 +16,7 @@ TIPS:
 
 **最近跟他们站长搞到了九折优惠码 但只能限时优惠到4月22日 优惠码是BIGDONGDONG**
 
-https://www.iplc.cloud/
+https://my.iplc.cloud/aff.php?aff=4
 
 >SS SSR 服务器站 比较高端 线路几乎全是IPLC专线 IPLC可以说是目前最顶级的线路 IPLC属于内网线路不过墙 高峰期不拥堵 不懂的可以百度一下。后期可能我会出视频介绍一下,比较适合较高端的重度用户使用。
 
