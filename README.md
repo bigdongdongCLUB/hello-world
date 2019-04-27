@@ -23,13 +23,13 @@ TIPS:
 
 ### MY2ZONE  
 
-www.myz0ne.life/auth/register?affid=23457
+[www.myz0ne.life](www.myz0ne.life/auth/register?affid=23457)
 
 >SS SSR 服务站 3多站（节点多、人多、套餐多）优点就是节点多 适合没选择恐惧的人 因为推了很久了 人数估计也挺多了。每次测试他们家都不知道选哪个节点（因为太多）节点有的好有的不行的。
 
 ### 海豚湾  
 
-https://xn--90wwvt03e.com//auth/register?affid=2743
+[www.cove.cloud](https://xn--90wwvt03e.com//auth/register?affid=2743)
 
 >SS SSR 服务站 3多站（节点多、人多、套餐多）和上面差不多 也是节点多 推荐很久 人数应该也很多。。有点节点多同样有的好有的不好
 
@@ -37,12 +37,12 @@ https://xn--90wwvt03e.com//auth/register?affid=2743
 
 ### 浣溪沙
 
-https://bigrain.xyz/auth/register?code=RyY7
+[https://bigrain.xyz](https://bigrain.xyz/auth/register?code=RyY7)
 
 ### GAOTIZI
 
-https://www.gaotizi.store
+[https://www.gaotizi.store](https://www.gaotizi.store)
 
 ### swcloud
-https://swproxy.com
+[https://swproxy.com](https://swproxy.com)
 
