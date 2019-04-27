@@ -23,7 +23,7 @@ TIPS:
 
 ### MY2ZONE  
 
-[www.myz0ne.life](www.myz0ne.life/auth/register?affid=23457)
+[www.myz0ne.life](https://www.myz0ne.life/auth/register?affid=23457)
 
 >SS SSR 服务站 3多站（节点多、人多、套餐多）优点就是节点多 适合没选择恐惧的人 因为推了很久了 人数估计也挺多了。每次测试他们家都不知道选哪个节点（因为太多）节点有的好有的不行的。
 
