@@ -4,7 +4,7 @@
 
 ### IPLC.CLOUD 
 
-### [https://my.iplc.cloud/aff.php?aff=248](https://my.iplc.cloud/aff.php?aff=4)
+### [https://my.iplc.cloud/aff.php?aff=248](https://my.iplc.cloud/aff.php?aff=248)
 
 限售！！搞限售这一点还是比较佩服的。原本人就不多的站现在每天只有十几个名额 增长缓慢 可以说十分注重用户体验了
 
