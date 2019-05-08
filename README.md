@@ -4,7 +4,7 @@
 
 ### IPLC.CLOUD 
 
-### [www.iplc.cloud](https://www.iplc.cloud)
+### [www.iplc.cloud](https://my.iplc.cloud/aff.php?aff=4)
 
 限售 在风口并没有疯狂的敛钱反而搞限售这一点还是比较佩服的。原本人就不多的站现在每天只有十几个名额 增长缓慢 可以说十分注重用户体验了
 
