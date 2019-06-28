@@ -4,6 +4,8 @@
 
 ### [https://iplc.cloud/auth/register?code=DeUA](https://iplc.cloud/auth/register?code=DeUA)
 
+https://t.me/Cloud_iplc
+
 >关于这个站我有些想说的，虽然通过以上链接注册我能拿到返利但我不在意这个钱。我在意的是所有人的感受和体验，绝对不做昧良心的推荐。
 
 因为6月初开始他们站出现不稳定并且在随后的后台数据迁移等事情下 造成了大概半个月不太好的使用体验，很多不满的粉丝找到我让我深陷其中左右为难。(目前已经迁移和修复完毕）
