@@ -4,6 +4,8 @@
 
 ### [https://iplc.cloud/auth/register?code=DeUA](https://iplc.cloud/auth/register?code=DeUA)
 
+### [https://iplc.xyz/auth/register?code=PL8s](https://iplc.xyz/auth/register?code=PL8s)
+
 https://t.me/Cloud_iplc ⬅️他家客服
 
 >关于这个站我有些想说的，虽然通过以上链接注册我能拿到返利但我不在意这个钱。我在意的是所有人的感受和体验，绝对不做昧良心的推荐。
