@@ -2,8 +2,6 @@
 
 ### IPLC.CLOUD 
 
-### [https://iplc.cloud/auth/register?code=DeUA](https://iplc.cloud/auth/register?code=DeUA)
-
 ### [https://iplc.xyz/auth/register?code=PL8s](https://iplc.xyz/auth/register?code=PL8s)
 
 https://t.me/Cloud_iplc ⬅️他家客服
