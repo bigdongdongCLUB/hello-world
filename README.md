@@ -28,7 +28,7 @@
 
 >[https://www.youtube.com/watch?v=zUKN8gqCLMU&t=612s](https://www.youtube.com/watch?v=zUKN8gqCLMU&t=612s)
 
-
+2019/6/28
 --------------------------------------------------------------------------------------------------------------------
 **不要迷信 YouTube测速 FAST测速 speedtest测速 我越来越发现这些测速不太靠谱 都只能体现大概状况**
 
