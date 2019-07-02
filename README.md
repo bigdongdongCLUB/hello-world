@@ -1,6 +1,6 @@
 ## 我目前正在使用的节点供应站
 
-### IPLC.CLOUD 
+### IPLC.VIP
 
 ### [https://iplc.xyz/auth/register?code=PL8s](https://iplc.xyz/auth/register?code=PL8s)
 
