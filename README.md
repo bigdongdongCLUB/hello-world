@@ -2,7 +2,7 @@
 
 ### IPLC.VIP
 
-### [https://iplc.xyz/auth/register?code=PL8s](https://iplc.xyz/auth/register?code=PL8s)
+### [https://iplc.vip/auth/register?code=1HYT](https://iplc.vip/auth/register?code=1HYT)
 
 https://t.me/Cloud_iplc ⬅️他家客服
 
