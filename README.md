@@ -2,7 +2,7 @@
 
 ### IPLC.VIP
 
-### [https://iplc.vip/auth/register?code=1HYT](https://iplc.vip/auth/register?code=1HYT)
+### [https://portal.lciplc.com/aff.php?aff=35](https://portal.lciplc.com/aff.php?aff=35)
 
 
 ### 其他整理中...
