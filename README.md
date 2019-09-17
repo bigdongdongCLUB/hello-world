@@ -1,6 +1,6 @@
 ## 我目前正在使用的节点供应站
 
-### IPLC-CLOUD
+### IPLC极致专线
 
 ### [IPLC.VIP](https://portal.lciplc.com/aff.php?aff=35)
 
