@@ -13,9 +13,7 @@
 
  [piecloud.net](https://piecloud.net)
 
->>便宜 可月付 分组设置 所有用户分组避免因为用户而拥堵。每个分组节点少但人也少
-
-PIECLOUD 北京联通实测 （待补）
+>>非重度用户首选 便宜 可月付 分组设置 所有用户分组，避免因为用户而拥堵，每个分组节点少但人也少。
 
 [piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
 
