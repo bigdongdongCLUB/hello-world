@@ -38,6 +38,7 @@ IOS设备
  1：购买以上两个任意一个网站的套餐后（其他机场也同样）会在他们的个人中心（具体看每个站的网页布局）找到一个订阅地址（注意可能会是SSR或者V2RAY这里仅限SSR）
 <img width="1178" alt="订阅地址" src="https://user-images.githubusercontent.com/43647204/77141733-d8ad8a80-6ab8-11ea-8f5a-3c7d0d481457.png">
 <img width="654" alt="订阅地址2" src="https://user-images.githubusercontent.com/43647204/77141738-de0ad500-6ab8-11ea-9f41-e4e04ef0d97d.png">
+
 2：去苹果设备的 appstore下载下小火箭shadowrocket（也有很多其他的工具可以用比如quantumult\pharos\surge这里仅介绍小火箭因为其简单好用适合新手)
 
 >>下载小火箭需要非中国大陆地区的AppleID 并且此软件是收费软件 就算有非大陆的APPLEID也需要购买iTunes礼品卡充值后购买。鉴于很多人可能没有所以大部分机场都提供例如以上这两个站
