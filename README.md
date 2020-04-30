@@ -7,7 +7,7 @@
 
  [IPLC.VIP](https://IPLC.VIP)
 
->>一直在用的主力 全IEPL接入（原IPLC）更改完全部线路以后目前非常好用，但是限量发售。
+>>一直在用的主力. 全IEPL接入（原IPLC）更改完全部线路以后目前非常好用，但是限量发售。
 
 ### ★★★PIEcloud
 
@@ -22,6 +22,8 @@ PIECLOUD 北京联通实测 （待补）
 ### ★★★Blinkload
 
 [Blinkload](https://blinkload.to/aff/jFKP)
+
+>>目前有优惠码：BIGDONGDONG 88折；BIGDONGDONGYEAR 年付套餐85折
 
 >>虽然开很久了但最近才开始用，而且他们也是全线升级了。现在公司化运营（Blinkload Technology Co.,Ltd ）全线 BGP 入口， IEPL线路。用了一段时间不错。但是月流量略低。
 
