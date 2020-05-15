@@ -10,14 +10,6 @@
 
 >一直在用的主力. 全IEPL接入（原IPLC）更改完全部线路以后目前非常好用，但是限量发售。
 
-### ★★★PIEcloud
-
- [piecloud.net](https://piecloud.net)
-
->非重度用户首选 便宜 可月付 分组设置 所有用户分组，避免因为用户而拥堵，每个分组节点少但人也少。
-
-[piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
-
 ### ★★★Blinkload
 
 [Blinkload](https://blinkload.to/aff/jFKP)
@@ -26,6 +18,20 @@
 
 >>目前有优惠码：BIGDONGDONG 88折；BIGDONGDONGYEAR 年付套餐85折
 
+### ★★★PIEcloud
+
+ [piecloud.net](https://piecloud.net)
+
+>非重度用户首选 便宜 可月付 分组设置 所有用户分组，避免因为用户而拥堵，每个分组节点少但人也少。
+
+[piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
+
+
+### ★★★XUNYOU666
+
+[XUNYOU666](https://xunyun666.com/auth/register?code=PZ19)
+
+>低价 耐用 实惠！！新站 人少 线路优 是以为老机场主整的新站~
 
 -----------------------------------------------------------------------------------------------
 
