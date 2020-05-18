@@ -26,13 +26,6 @@
 
 [piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
 
-
-### ★★★XUNYOU666
-
-[XUNYOU666](https://xunyun666.com/auth/register?code=PZ19)
-
->低价 耐用 实惠！！新站 人少 线路优 是一位老机场主整的新站技术过硬~
-
 -----------------------------------------------------------------------------------------------
 
 ### 以下是针对小白同学的使用方法
