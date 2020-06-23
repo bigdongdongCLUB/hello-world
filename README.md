@@ -16,7 +16,6 @@
 
 >一个某大牌机场和我合作的独立分站，由我监制，全部IPEL加CN2，各种线路陆续增加中，全站质量由我把控。
 
->>目前有优惠码：BIGDONGDONG 88折；BIGDONGDONGYEAR 年付套餐85折
 
 ### ★★★PIEcloud
 
