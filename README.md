@@ -20,7 +20,7 @@
 
 >>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/17)
 
-### ★★★PIEcloud 「SS SSR」
+### ★★★PIEcloud 「SS SSR V2RAY」
 
  [piecloud.net](https://piecloud.net)
 
