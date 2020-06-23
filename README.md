@@ -8,7 +8,7 @@
 
  [IPLC.VIP](https://IPLC.VIP)
 
->一直在用的主力. 全IEPL接入（原IPLC）更改完全部线路以后目前非常好用，但是限量发售。
+>已完成由中级站向高大全站的蜕变。目前节点数量70+且涵盖所以实用性特殊节点（注册Netflix之类）线路全部为IEPL,测速全红，因为现在控制人数，所以仅有年套餐并且限量发售。
 
 ### ★★★Electry
 
@@ -20,7 +20,7 @@
 
  [piecloud.net](https://piecloud.net)
 
->非重度用户首选 便宜 可月付 分组设置 所有用户分组，避免因为用户而拥堵，每个分组节点少但人也少。
+>另一个轻度选择，便宜，可月付。分组设置 所有用户分组，避免因为用户占用某一线路而拥堵，线路为内网加CN2。因为是所有用户分组管理，所以每个分组节点看上去数量少，但人也少。
 
 [piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
 
