@@ -12,9 +12,9 @@
 
 ### ★★★Blinkload
 
-[Blinkload](https://blinkload.to/aff/jFKP)
+[Electry](my.electry.io)
 
->虽然开很久了但最近才开始用，而且他们也是全线升级了。现在公司化运营（Blinkload Technology Co.,Ltd ）全线 BGP 入口， IEPL线路。用了一段时间不错。但是月流量略低。
+>一个某大牌机场和我合作的独立分站，由我监制，全部IPEL加CN2，各种线路陆续增加中，全站质量由我把控。
 
 >>目前有优惠码：BIGDONGDONG 88折；BIGDONGDONGYEAR 年付套餐85折
 
