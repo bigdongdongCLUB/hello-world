@@ -10,11 +10,15 @@
 
 >已完成由中级站向高大全站的蜕变。目前节点数量70+且涵盖所以实用性特殊节点（注册Netflix之类）线路全部为IEPL内网（不过墙）加CN2及部分公网，测速全红，因为现在控制人数，所以仅有年套餐并且限量发售。
 
+>>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/16)
+
 ### ★★★Electry 「V2RAY」
 
 [Electry](https://my.electry.io/#/register?code=U5iRQc9w)
 
 >某大牌机场和我合作的独立分站，由我全程监制，专业化团队管理技术绝对过硬，后台界面清新直观。线路全部采用IPEL内网（不过墙）加CN2（因为是建站初期后期全部为IEPL内网）各种线路陆续增加中，全站质量由我把控。
+
+>>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/17)
 
 ### ★★★PIEcloud 「SS SSR」
 
