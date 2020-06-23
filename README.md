@@ -26,7 +26,7 @@
 
 >另一个轻度选择，便宜，可月付。分组设置 所有用户分组，避免因为用户占用某一线路而拥堵，线路为内网加CN2。因为是所有用户分组管理，所以每个分组节点看上去数量少，但人也少。
 
-[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/18)
+>>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/18)
 
 [piecloud邀请码](https://piecloud.site/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
 
