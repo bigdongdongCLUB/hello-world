@@ -10,7 +10,7 @@
 
 >一直在用的主力. 全IEPL接入（原IPLC）更改完全部线路以后目前非常好用，但是限量发售。
 
-### ★★★Blinkload
+### ★★★Electry
 
 [Electry](my.electry.io)
 
