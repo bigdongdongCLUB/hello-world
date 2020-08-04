@@ -6,7 +6,7 @@
 
 ### ★★★IPLC极致专线  「SS SSR」
 
- [IPLC.VIP](https://IPLC.VIP)
+ [IPLC.VIP](https://portal.iplc-j.pw/aff.php?aff=35)
 
 >已完成由中级站向高大全站的蜕变。目前节点数量70+且涵盖所以实用性特殊节点（注册Netflix之类）线路全部为IEPL内网（不过墙）加CN2及部分公网，测速全红，因为现在控制人数，所以仅有年套餐并且限量发售。
 
