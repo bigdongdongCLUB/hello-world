@@ -12,6 +12,14 @@
 
 >>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/16)
 
+### ★★★Electry 「V2RAY」
+
+[Electry](https://my.electry.io/#/register?code=U5iRQc9w)
+
+>某大牌机场的独立分站，由我试试测试线路质量，专业化团队管理技术绝对过硬，后台界面清新直观。线路全部采用IEPL内网（不过墙）加CN2（因为是建站初期后期全部为IEPL内网）各种线路陆续增加中。
+
+>>[测速表现及节点列表](https://github.com/bigdongdongCLUB/hello-world/issues/17)
+
 ### ★★★PIEcloud 「SS SSR V2RAY」
 
  [piecloud.net](https://speedpie.net/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
