@@ -6,7 +6,7 @@
 
 ### ★★★IPLC极致专线  「SS SSR」
 
- [IPLC.VIP](https://portal.iplc-j.pw/aff.php?aff=35)
+ [IPLC.VIP](https://portal.iplc-j.pw/aff.php?aff=35)  ←点这里
 
 >已完成由中级站向高大全站的蜕变。目前节点数量70+且涵盖所以实用性特殊节点（注册Netflix之类）线路全部为IEPL内网（不过墙）加CN2及部分公网，测速全红，因为现在控制人数，所以仅有年套餐并且限量发售。
 
@@ -14,7 +14,7 @@
 
 ### ★★★Electry 「V2RAY」
 
-[Electry](https://my.electry.io/#/register?code=U5iRQc9w)
+[Electry](https://my.electry.io/#/register?code=U5iRQc9w)  ←点这里
 
 >某大牌机场的独立分站，由我试试测试线路质量，专业化团队管理技术绝对过硬，后台界面清新直观。线路全部采用IEPL内网（不过墙）加CN2（因为是建站初期后期全部为IEPL内网）各种线路陆续增加中。
 
@@ -22,7 +22,7 @@
 
 ### ★★★PIEcloud 「SS SSR V2RAY」
 
- [piecloud.net](https://speedpie.net/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)
+ [piecloud.net](https://speedpie.net/auth/register?code=mBsUmuHUNQvYknID96Nc2YWeGr5Y66dQ)  ←点这里
 
 >另一个轻度选择，便宜，可月付。分组设置 所有用户分组，避免因为用户占用某一线路而拥堵，线路为公网隧道CN2。因为是所有用户分组管理，所以每个分组节点看上去数量少，但人也少。
 
